@@ -35,22 +35,28 @@ YOLO-Real-Time-Object-Detection/
 ├── real_time_yolo_detector2.py
 ├── README.md
 
-🧠 How It Works
+🧠 # How It Works
+
 🎥 Capturing Frames:
 The webcam continuously captures frames as input images for YOLO.
+
 📐 Grid Division & Prediction:
 YOLO divides each frame into a grid and predicts bounding boxes and class probabilities for each cell.
+
 ⚡ Single Forward Pass:
 All predictions are generated in one pass, enabling real-time performance.
+
 ❌ Non-Maximum Suppression:
 Overlapping boxes for the same object are filtered to retain only the most confident prediction.
+
 🖌️ Visualization:
 Detected objects are highlighted on the frame with bounding boxes, labels, and confidence scores.
+
 
 📚 Dataset
 COCO Dataset (Common Objects in Context)
 
-💻 Installation
+#💻 Installation
 
 Clone the repository:
 git clone https://github.com/Shikha18Shukla/YOLO-Real-Time-Object-Detection-Webcam-.git
@@ -58,9 +64,7 @@ cd YOLO-Real-Time-Object-Detection
 
 Set up a virtual environment (optional but recommended):
 python -m venv venv
-# Activate on Windows
 venv\Scripts\activate
-# Activate on macOS/Linux
 source venv/bin/activate
 
 Install dependencies:
