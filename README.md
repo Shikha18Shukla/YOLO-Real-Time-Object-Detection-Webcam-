@@ -84,3 +84,14 @@ Press q to quit the application.
 YOLO: You Only Look Once
 Git LFS
 
+
+<img width="362" height="334" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/4e5dd76e-3ee3-4d6a-8cf8-acb693730175" />
+
+<img width="430" height="441" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/a488c8a6-b61c-42f2-9773-356d7c8a7c42" />
+
+<img width="386" height="378" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/d00e255f-2206-42c6-bf5a-6249c6a19a25" />
+
+<img width="525" height="502" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/a5b4b8ca-1e87-4dca-a5fe-761f514d404a" />
+<img width="574" height="499" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/40ec6be4-04af-4c25-adce-2b32e5d95b21" />
+
+
